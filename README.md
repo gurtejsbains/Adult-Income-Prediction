@@ -19,6 +19,11 @@ In addition to Random Forest, a KNN classification model was fitted. In addition
 7.	The United States is the native country of approximately 90% of the observations. 
 8.	Duplicate information is represented by education-num and education.
 
+
+<p align = "center"> 
+  <img src = "https://github.com/gurtejsbains/Adult-Income-Prediction/blob/9def0444421fb5ec19ad20bac62cead3bf37f9b3/Hours%20per%20week,%20Age%20and%20Salary.png">
+</p>
+
 ## Data Dictionary: 
 1.	workclass: Identifies the work/job.
 2.	education: Identifies the highest education level.  
