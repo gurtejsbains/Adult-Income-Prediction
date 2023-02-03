@@ -1,7 +1,7 @@
 # Adult Income Prediction 
 ## Using demographic factors to predict the income category in the dataset.  
 
-**Author**: Gurtej Bains 
+**Author**: Gurtej Bains <br>
 **Data Source**: [https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/ ](http://www.cs.toronto.edu/~delve/data/adult/adultDetail.html)
 
 ## Introduction:
@@ -19,9 +19,12 @@ In addition to Random Forest, a KNN classification model was fitted. In addition
 7.	The United States is the native country of approximately 90% of the observations. 
 8.	Duplicate information is represented by education-num and education.
 
-
 <p align = "center"> 
   <img src = "https://github.com/gurtejsbains/Adult-Income-Prediction/blob/9def0444421fb5ec19ad20bac62cead3bf37f9b3/Hours%20per%20week,%20Age%20and%20Salary.png">
+</p>
+
+<p align = "center"> 
+  <img src = "https://github.com/gurtejsbains/Adult-Income-Prediction/blob/510f5b140c36d262a68acbe07be673eb5f54adc8/Workclass%20and%20income.png">
 </p>
 
 ## Data Dictionary: 
