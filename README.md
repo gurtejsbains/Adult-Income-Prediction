@@ -24,7 +24,7 @@ In addition to Random Forest, a KNN classification model was fitted. In addition
 </p>
 
 <p align = "center"> 
-  <img src = "https://github.com/gurtejsbains/Adult-Income-Prediction/blob/5af82ae3235cd092e051dec059642e0dc654cc4e/Age%20and%20net%20capital%20gains.png">
+  <img src = "https://github.com/gurtejsbains/Adult-Income-Prediction/blob/3c7d922c818a0a259289b35c46740662833e2881/Age%20and%20net%20capital%20gains.png">
 </p>
 
 ## Data Dictionary: 
