@@ -20,11 +20,11 @@ In addition to Random Forest, a KNN classification model was fitted. In addition
 8.	Duplicate information is represented by education-num and education.
 
 <p align = "center"> 
-  <img src = "https://github.com/gurtejsbains/Adult-Income-Prediction/blob/9def0444421fb5ec19ad20bac62cead3bf37f9b3/Hours%20per%20week,%20Age%20and%20Salary.png">
+  <img src = "https://github.com/gurtejsbains/Adult-Income-Prediction/blob/5af82ae3235cd092e051dec059642e0dc654cc4e/Age%20and%20hours%20worked%20per%20week.png">
 </p>
 
 <p align = "center"> 
-  <img src = "https://github.com/gurtejsbains/Adult-Income-Prediction/blob/510f5b140c36d262a68acbe07be673eb5f54adc8/Workclass%20and%20income.png">
+  <img src = "https://github.com/gurtejsbains/Adult-Income-Prediction/blob/5af82ae3235cd092e051dec059642e0dc654cc4e/Age%20and%20net%20capital%20gains.png">
 </p>
 
 ## Data Dictionary: 
